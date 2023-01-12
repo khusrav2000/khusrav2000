@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-### [Projects](https://github.com/khusrav2000)
+### [Portfolio/Projects](https://github.com/khusrav2000/khusrav2000/tree/main/projects)
 ### [Certifications]()
 ### [Awards and Olympiads](https://github.com/khusrav2000)
 
