@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Data Science
+<br><br>
+<a href="https://www.linkedin.com/in/khusrav-ashurzoda-688247159/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://discord.com/users/1036996784758726716">
+  <img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" />
+</a>
+<a href="https://github.com/khusrav2000">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <h2>Things I code with</h2>
 
 <h4>Languages</h4>
@@ -41,7 +51,7 @@ Here are some ideas to get you started:
 
 </p>
  
-<h4>Backend and Frontend</h4>
+<h4>Backend & Frontend</h4>
  <p>
     <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -51,17 +61,12 @@ Here are some ideas to get you started:
     <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
  </p>
  
-<h4>Databases</h4>
+<h4>Databases & Tools</h4>
 <p>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-      
-<h4>Tools</h4>
-<p>  
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" />
 </p>
-  
  
 <!--
 <h2>Contact</h2>
@@ -70,23 +75,17 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<h2>Social</h2>
-<a href="https://www.linkedin.com/in/khusrav-ashurzoda-688247159/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<a href="https://github.com/khusrav2000">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+
+
+<h2>Education</h2>
 <a href="https://codeforces.com/profile/KHUSRAV">
   <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 </a>
 <a href="https://www.hackerrank.com/khusrav2000">
   <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
-
-
-<h2>Education</h2>
 <a href="https://app.datacamp.com/profile/khusrav0012">
   <img alt="DataCamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
 </a>
