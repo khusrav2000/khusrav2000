@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://www.linkedin.com/in/khusrav-ashurzoda-688247159/ <br>
+
+<a href="https://www.linkedin.com/in/khusrav-ashurzoda-688247159/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br>
 https://www.hackerrank.com/khusrav2000 <br>
 https://codeforces.com/profile/KHUSRAV <br>
 📈 my github stats
