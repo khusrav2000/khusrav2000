@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/khusrav2000">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://github.com/khusrav2000">
+  <h3>Portfolio</h3>
+</a>
+
 <h2>Things I code with</h2>
 
 <h4>Languages</h4>
