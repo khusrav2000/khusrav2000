@@ -31,7 +31,14 @@ Here are some ideas to get you started:
 <h4>Mobile</h4>
 <p>
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img alt="Android Studio" src="https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=" />
+    <img alt="Retrofit" src="https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=" />
+    <img alt="iOS" src="https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=" />
     <img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+    <img alt="UIKit" src="https://img.shields.io/static/v1?style=for-the-badge&message=UIkit&color=2396F3&logo=UIkit&logoColor=FFFFFF&label=" />
+    <img alt="CocoaPods" src="https://img.shields.io/static/v1?style=for-the-badge&message=CocoaPods&color=EE3322&logo=CocoaPods&logoColor=FFFFFF&label=" />
+    <img alt="CoreData" src="https://img.shields.io/static/v1?style=for-the-badge&message=CocoaPods&color=EE3322&logo=CocoaPods&logoColor=FFFFFF&label=" />
+
 </p>
  
 <h4>Backend and Frontend</h4>
@@ -52,6 +59,7 @@ Here are some ideas to get you started:
 <h4>Tools</h4>
 <p>  
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" />
 </p>
   
  
