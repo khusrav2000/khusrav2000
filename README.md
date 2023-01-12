@@ -21,6 +21,9 @@ Here are some ideas to get you started:
     <th><h4>Languages</h4></th>
     <th><h4>Mobile</h4></th>
     <th><h4>Databases</h4></th>
+    <th><h4>Backend</h4></th>
+    <th><h4>Frontend</h4></th>
+    <th><h4>Tools</h4></th>
   </tr>
   <tr>
     <th>
@@ -45,26 +48,41 @@ Here are some ideas to get you started:
         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       </p>
     </th>
+    <th>
+      <p>
+        <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+      </p>
+    </th>
+    <th>
+      <p>
+        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+        <img alt="Webpack" src="https://img.shields.io/badge/Webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white" />
+        <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+        <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+      </p>
+    </th>
+    <th>
+      <p>
+        <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+      </p>
+    </th>
   </tr>
 </table>
 
 <h4>Backend</h4>
 <p>
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  
 </p>
 
 <h4>Frontend</h4>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  
 </p>
   
 <h4>Tools</h4>
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  
 </p>
  
 <!--
