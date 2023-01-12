@@ -2,10 +2,19 @@
 
 ## Mavsim iOS App
 ### App is uploaded on AppStore
-### [Github Link](https://github.com/khusrav2000/mavsim-ios)
+
 The application is designed for logistics company drivers to order orders from customers, inform the customer about the detection / unloading of goods, and quickly select their location for tracking. The data is used for the production and tracking of shipments. The list of drivers with geolocation enabled is displayed on the map by the administrator, who, when choosing a driver, will know who is closer to the load and will be in contact with him.
+<p>
+<a href="https://github.com/khusrav2000/mavsim-ios">
+  <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
+</a>
+<a href="#">
+  <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=App+Store&color=0D96F6&logo=App+Store&logoColor=FFFFFF&label=" />
+</a>
+</p>
+
 ### Technology usage
-![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)![iOS](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=)
+![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)![iOS](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=)![UIkit](https://img.shields.io/static/v1?style=for-the-badge&message=UIkit&color=2396F3&logo=UIkit&logoColor=FFFFFF&label=)![Alamofire](https://img.shields.io/static/v1?style=for-the-badge&message=Alamofire&color=F05138&logo=Alamofire&logoColor=FFFFFF&label=)
 
 ## Uchproc WEB App
 Uchpros is a learning management system for the Tajik State
