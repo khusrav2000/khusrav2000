@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://www.hackerrank.com/khusrav2000
+https://codeforces.com/profile/KHUSRAV
 📈 my github stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=khusrav2000&show_icons=true&theme=gotham")
