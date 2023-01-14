@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Data Science
+🌱 I’m currently learning [Data Science](https://github.com/khusrav2000/data-science-learn-projects)
 <br><br>
 <a href="https://www.linkedin.com/in/khusrav-ashurzoda-688247159/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
