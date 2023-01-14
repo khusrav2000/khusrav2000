@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 
 ### [Portfolio/Projects](https://github.com/khusrav2000/khusrav2000/blob/main/projects/README.md)
-### [Certifications]()
+### [Certifications](https://github.com/khusrav2000/khusrav2000/tree/main/certifications)
 ### [Awards and Olympiads](https://github.com/khusrav2000)
 
 <h2>Things I code with</h2>
