@@ -85,9 +85,11 @@ Here are some ideas to get you started:
 
 
 <h2>Education</h2>
+<h3>1200+ problems solved in:</h3>
 <a href="https://codeforces.com/profile/KHUSRAV">
   <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 </a>
+<h3>Other<h3>
 <a href="https://www.hackerrank.com/khusrav2000">
   <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
