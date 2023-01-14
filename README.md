@@ -101,5 +101,5 @@ Here are some ideas to get you started:
 <br>
 <h2>📈 my github stats</h2>
 
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=khusrav2000&show_icons=true&theme=gotham") | ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khusrav2000&langs_count=10&layout=compact&exclude_repo=UchprocCanvas-lms,UchprocCanvas-IOS,canvas-ios,rtsu-lms-web-uchproc) | 
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=khusrav2000&show_icons=true&theme=gotham&hide_border=true") | ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khusrav2000&langs_count=10&layout=compact&hide_border=true&exclude_repo=UchprocCanvas-lms,UchprocCanvas-IOS,canvas-ios,rtsu-lms-web-uchproc) | 
 | ------------- | ------------- |
