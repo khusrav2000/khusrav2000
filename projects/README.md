@@ -64,7 +64,7 @@ Student's personal account. The application has the functionality of viewing the
   </a>
 </p>
 
-[2.Russian-Tajik (Slavonic) University](https://www.rtsu.tj/en/)
+[2. Russian-Tajik (Slavonic) University](https://www.rtsu.tj/en/)
 <p>
   <a href="https://play.google.com/store/apps/details?id=tj.rtsu.students&hl=ru&gl=US">
     <img alt="Google Play" src="https://img.shields.io/static/v1?style=for-the-badge&message=RTSU.STUDENTS&color=F05138&logo=Google+Play&logoColor=FFFFFF&label=Google+Play"/>
@@ -74,7 +74,7 @@ Student's personal account. The application has the functionality of viewing the
   </a>
 </p>
 
-[3.Tajik State Pedagogical University named after S. Aini](https://www.tgpu.tj/index.php?lang=en)
+[3. Tajik State Pedagogical University named after S. Aini](https://www.tgpu.tj/index.php?lang=en)
 <p>
   <a href="https://play.google.com/store/apps/details?id=tj.ddot.students&hl=ru&gl=US">
     <img alt="Google Play" src="https://img.shields.io/static/v1?style=for-the-badge&message=DDOT.STUDENTS&color=F05138&logo=Google+Play&logoColor=FFFFFF&label=Google+Play"/>
@@ -95,4 +95,18 @@ Student's personal account. The application has the functionality of viewing the
 </p>
 
 ### Technology usage
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=222222&logo=OpenJDK&logoColor=FFFFFF&label=)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Retrofit&color=0D96F6&logo=Retrofit&logoColor=FFFFFF&label=)![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)![iOS](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=)![UIkit](https://img.shields.io/static/v1?style=for-the-badge&message=UIkit&color=2396F3&logo=UIkit&logoColor=FFFFFF&label=)![Alamofire](https://img.shields.io/static/v1?style=for-the-badge&message=Alamofire&color=F05138&logo=Alamofire&logoColor=FFFFFF&label=)
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=222222&logo=OpenJDK&logoColor=FFFFFF&label=)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Retrofit&color=0D96F6&logo=Retrofit&logoColor=FFFFFF&label=)![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)![iOS](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=)![UIkit](https://img.shields.io/static/v1?style=for-the-badge&message=UIkit&color=2396F3&logo=UIkit&logoColor=FFFFFF&label=)![Alamofire](https://img.shields.io/static/v1?style=for-the-badge&message=Alamofire&color=F05138&logo=Alamofire&logoColor=FFFFFF&label=)![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)![Google Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=)![Google AdMob](https://img.shields.io/static/v1?style=for-the-badge&message=Google+AdMob&color=EA4335&logo=Google+AdMob&logoColor=FFFFFF&label=)
+
+## Time To Rise | Android Apps
+System for restaurant automation, There is front- and
+back office. In this project, I was developing mobile applications for
+Android. In general, for the project, I developed three applications under Android.
+### Source codes
+[App for Customer](https://github.com/khusrav2000/Time2RaiseCustomer)
+
+[App for Organization](https://github.com/khusrav2000/Time2RaisOraganization)
+
+[]()
+
+### Technology usage
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=222222&logo=OpenJDK&logoColor=FFFFFF&label=)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)![Retrofit](https://img.shields.io/static/v1?style=for-the-badge&message=Retrofit&color=0D96F6&logo=Retrofit&logoColor=FFFFFF&label=)![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)![Google Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=)
