@@ -103,6 +103,3 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=khusrav2000&show_icons=true&theme=gotham")
 <br>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khusrav2000&langs_count=12&layout=compact&exclude_repo=UchprocCanvas-lms,UchprocCanvas-IOS,canvas-ios,rtsu-lms-web-uchproc)
-
-![](https://raw.githubusercontent.com/khusrav2000/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/khusrav2000/github-stats-transparent/output/generated/languages.svg)
