@@ -6,7 +6,7 @@ The application is designed for logistics company drivers to order orders from c
 <a href="https://github.com/khusrav2000/mavsim-ios">
   <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
 </a>
-<a href="#">
+<a href="https://apps.apple.com/app/mavsim/id1661829703">
   <img alt="App Store" src="https://img.shields.io/static/v1?style=for-the-badge&message=App+Store&color=0D96F6&logo=App+Store&logoColor=FFFFFF&label=" />
 </a>
 </p>
