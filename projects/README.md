@@ -18,7 +18,7 @@ The application is designed for logistics company drivers to order orders from c
 
 
 ## Uchproc | Web application
-Uchpros is a learning management system for the [Tajik State Pedagogical University named after S. Aini](https://www.tgpu.tj/index.php?lang=en) and [Kulyab State University named after A. Rudaki](http://kgu.tj/en/) developed on the based of [canvas-lms](https://github.com/instructure/canvas-lms). I was involved in the project adding new functionality.
+Uchpros is a learning management system for the [Tajik State Pedagogical University named after S. Aini](https://www.tgpu.tj/index.php?lang=en) and [Kulyab State University named after A. Rudaki](http://kgu.tj/en/) developed on the based of [canvas-lms](https://github.com/instructure/canvas-lms). I was involved in the project adding new functionality and integration with the old system.
 <p>
   <a href="https://isu.tspu.tj/login/canvas">
     <img alt="Web" src="https://img.shields.io/static/v1?style=for-the-badge&message=TSPU&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=Wisit+Web" />
