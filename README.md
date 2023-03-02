@@ -95,6 +95,9 @@ Here are some ideas to get you started:
   <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 </a>
 <h3>Other<h3>
+<a href="https://www.kaggle.com/khusrav2000">
+  <img alt="Hackerrank" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=" />
+</a>
 <a href="https://www.hackerrank.com/khusrav2000">
   <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
@@ -105,5 +108,5 @@ Here are some ideas to get you started:
 <br>
 <h2>📈 my github stats</h2>
 
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=khusrav2000&show_icons=true&theme=gotham&hide_border=true") | ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khusrav2000&langs_count=10&layout=compact&hide_border=true&exclude_repo=UchprocCanvas-lms,UchprocCanvas-IOS,canvas-ios,rtsu-lms-web-uchproc&hide=java) | 
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=khusrav2000&show_icons=true&theme=gotham&hide_border=true") | ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khusrav2000&langs_count=10&layout=compact&hide_border=true&exclude_repo=UchprocCanvas-lms,UchprocCanvas-IOS,canvas-ios,rtsu-lms-web-uchproc&hide=jupyter%20notebook) | 
 | ------------- | ------------- |
